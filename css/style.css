@@ -5,8 +5,12 @@ p{
     text-align: center;
     font-size: 26px;
     color: white;
+    font-weight: bold;
 }
 h1{
     text-align: center;
     color: rgb(128, 202, 31);
+}
+span{
+    color: beige;
 }
