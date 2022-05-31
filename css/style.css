@@ -1,16 +1,28 @@
-body{
+body {
     background-color: rgb(61, 51, 207);
 }
-p{
+
+p {
     text-align: center;
     font-size: 26px;
     color: white;
     font-weight: bold;
 }
-h1{
+
+h1 {
     text-align: center;
     color: rgb(128, 202, 31);
 }
-span{
+
+span {
     color: beige;
+}
+h2{
+    text-align: center;
+    color: rgb(231, 85, 0);
+    font-size: 50px;
+}
+h3{
+    text-align: center;
+    color: white;
 }
